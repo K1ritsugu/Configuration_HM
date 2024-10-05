@@ -1,0 +1,8 @@
+Timestamp,User,Action
+2024-10-05T10:14:48.830298,testuser,ls
+2024-10-05T10:14:52.613826,testuser,cd vfs
+2024-10-05T10:14:53.877950,testuser,ls
+2024-10-05T10:14:59.493839,testuser,cat SMERT.txt
+2024-10-05T10:15:06.120459,testuser,cat xxxx.txt
+2024-10-05T10:15:13.315701,testuser,uptime
+2024-10-05T10:17:06.542324,testuser,exit

@@ -1,0 +1,4 @@
+user_name: 'testuser'      
+computer_name: 'testmachine'
+vfs_path: 'vfs.zip'
+log_file_path: 'log.csv'
