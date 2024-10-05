@@ -32,10 +32,10 @@ zip. Эмулятор должен работать в режиме CLI.
 Конфигурационный файл config.yaml должен содержать следующую информацию:
 
 ```yaml
-username: "your_username"
-computername: "your_computername"
+user_name: "your_username"
+computer_name: "your_computername"
 vfs_path: "путь/к/vfs/emulator.zip"
-log_path: "путь/к/log.csv"
+log_file_path: "путь/к/log.csv"
 
 ```
 2. *Установка зависимостей*:
