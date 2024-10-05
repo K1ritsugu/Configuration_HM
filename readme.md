@@ -48,5 +48,5 @@ pip install -r requirements.txt
 
 Для запуска эмулятора выполните:
 ```bash
-python emulator.py --config vfs/config.yaml
+python emulator.py --config config.yaml
 ```
